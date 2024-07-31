@@ -13,5 +13,5 @@ plot_model==0.20
 scikit_learn==1.3.2
 seaborn==0.13.2
 tensorflow==2.10.1
-tensorflow==2.13.1
+tensorflow==2.12.1
 tensorflow_intel==2.13.1
